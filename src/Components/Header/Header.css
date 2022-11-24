@@ -1,5 +1,4 @@
 container{
-    background-color: rgba(12, 11, 9, 0.6);
     justify-content: space-between!important;
     
 }
@@ -16,7 +15,6 @@ container{
 }
 .royalRes{
     margin-right: 40px;
-    margin-left: -30px;
     font-weight: 300;
     font-size: 28px;
     font-family: sans-serif;

@@ -1,0 +1,12 @@
+.about-con{
+    height: 100px;
+    width: 800px;
+    padding: 100px;
+}
+.top{
+    color: rgb(230, 51, 81);
+    font-size: 30px;
+}
+.card{
+    margin: 30px;
+}
