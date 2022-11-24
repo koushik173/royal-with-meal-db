@@ -1,0 +1,13 @@
+.home-container {
+    text-align: center;
+    background-image: url(../../backImg.jpg);
+    background-repeat: no-repeat;
+    height: 906px;
+    width: 100%;
+  }
+.welcome{
+    color: white;
+    padding: 350px;
+    margin-right: 100px;
+    justify-content:center;
+}
